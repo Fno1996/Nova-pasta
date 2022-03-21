@@ -1,0 +1,38 @@
+body {
+    background: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: auto;
+}
+
+#title, .subtitle, .post_title {
+    color:#04042e;
+}
+.subtitle{
+    font-size: 20px;
+    font-style: italic;
+}
+.post_title {
+    font-size: 18px;
+    font-style: italic;
+    margin: 0;
+    margin-bottom: 5px;
+}
+.post {
+    background: white;
+    padding: 10px 5px;
+    border: 3px solid #04042e;
+    border-radius: 10px;
+    margin: 5px;
+}
+.imagem {
+    border: 3px solid #04042e;
+    border-radius: 20%;
+}
+.tema {
+    background: url(tema.jpg);
+    width: 100%;
+    margin: 0;
+    padding: 0;
+
+    
+}
